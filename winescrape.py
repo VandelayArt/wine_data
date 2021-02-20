@@ -7,7 +7,7 @@ def search_grape():
     while want_to_search.lower() == "yes":
         grape_query = input("What grape would you like to find?  ")
 
-        URL = 'https://winefolly.com/grapes/' + grape_query + '/'
+        URL = 'https://winefolly.com/grapes/' + grape_query.lower() + '/'
         page = requests.get(URL)
         soup = BeautifulSoup(page.content, 'html.parser')
 
