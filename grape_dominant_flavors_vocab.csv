@@ -1,0 +1,456 @@
+,dominant flavors
+0,raspberry
+1, blackberry
+2, plum sauce
+3, black pepper
+4, nutmeg
+5,white pepper
+6, black cherry
+7, smoke
+8, game
+9, spiced plum
+10,black cherry
+11, blackberry bramble
+12, black plum
+13, black pepper
+14, sweet tobacco
+15,lemon zest
+16, grapefruit
+17, hazelnut
+18, beeswax
+19, chamomile
+20,peach
+21, yellow apple
+22, honey
+23, raw almond
+24, nutmeg
+25,lime
+26, passion fruit
+27, beeswax
+28, flint
+29, saline
+30,blackberry
+31, black currant
+32, dried cherry
+33, cocoa
+34, tar
+35,tart cherry
+36, licorice
+37, blackberry
+38, dried herbs
+39, black pepper
+40,blackberry
+41, pomegranate
+42, licorice
+43, black tea
+44, cocoa powder
+45,plum sauce
+46, cherry
+47, cardamom
+48, fig paste
+49, graphite
+50,candied strawberry
+51, orange zest
+52, black currant
+53, apricot
+54, cream
+55,strawberry
+56, raspberry
+57, bell pepper
+58, crushed gravel
+59, chili pepper
+60,black cherry
+61, black currant
+62, cedar
+63, baking spices
+64, graphite
+65,dried cranberry
+66, raspberry
+67, tobacco leaf
+68, baking spices
+69, cured meat
+70,lemon
+71, apple
+72, peach
+73, dried flowers
+74, honey
+75,grape
+76, watermelon candy
+77, strawberry jam
+78, violet
+79, petrol
+80,yellow apple
+81, starfruit
+82, pineapple
+83, vanilla
+84, butter
+85,red apple
+86, apple blossom
+87, melon
+88, mint
+89, smoke
+90,quince
+91, yellow apple
+92, pear
+93, chamomile
+94, honey
+95,grape
+96, plum sauce
+97, musk
+98, potting soil
+99, cumin
+100,raspberry
+101, red currant
+102, tart cherry
+103, violet
+104, black tea
+105,green apple
+106, honeydew
+107, white peach
+108, lemongrass
+109, almond
+110,meyer lemon
+111, gala apple
+112, honeydew
+113, seashell
+114, almond
+115,tart cherry
+116, cinnamon
+117, chocolate
+118, green peppercorn
+119, green almond
+120,grapefruit
+121, lemon zest
+122, hazelnut
+123, ginger
+124, resin
+125,grapefruit
+126, lemon zest
+127, quince
+128, crushed gravel
+129, saline
+130,plum
+131, blackberry
+132, cocoa
+133, black pepper
+134, violet
+135,starfruit
+136, gooseberry
+137, white pepper
+138, honeydew
+139, almond
+140,lemon
+141, citrus blossom
+142, peach
+143, honey
+144, almond
+145,honeydew
+146, asian pear
+147, hazelnut
+148, orange peel
+149, pine
+150,dried strawberry
+151, pomegranate
+152, white pepper
+153, tobacco
+154, clove
+155,grapefruit
+156, green pear
+157, white peach
+158, tarragon
+159, crushed gravel
+160,meyer lemon
+161, green apple
+162, ginger
+163, smoke
+164, pepperocini
+165,raspberry
+166, red currant
+167, clay pot
+168, leather
+169, tobacco
+170,pomegranate
+171, blackberry bramble
+172, violet
+173, potting soil
+174, peony
+175,peach
+176, honeydew
+177, tangerine
+178, marjoram
+179, saline
+180,grapefruit
+181, lime
+182, lime blossom
+183, bay leaf
+184, saline
+185,white peach
+186, honeydew
+187, strawberry
+188, wild flowers
+189, seashell
+190,stewed strawberry
+191, grilled plum
+192, leather
+193, dried herbs
+194, blood orange
+195,green plum
+196, pear
+197, lemon zest
+198, honeysuckle
+199, toast
+200,grapefruit
+201, citrus blossom
+202, thyme
+203, minerals
+204, saline
+205,red plum
+206, blackberry
+207, vanilla
+208, sweet tobacco
+209, cocoa
+210,white peach
+211, wild flowers
+212, green almond
+213, basil
+214, seashell
+215,quince
+216, mandarin orange
+217, apricot
+218, acacia
+219, beeswax
+220,lime
+221, seashell
+222, green apple
+223, pear
+224, bread dough
+225,cherry
+226, plum
+227, chocolate
+228, bay leaf
+229, vanilla
+230,red plum
+231, blackberry
+232, dried thyme
+233, baking spices
+234, mesquite
+235,potpourri
+236, honeydew
+237, pink grapefruit
+238, lemon
+239, almond
+240,ripe banana
+241, yellow apple
+242, lime peel
+243, cranberry
+244, rubber cement
+245,orange blossum
+246, meyer lemon
+247, mandarin orange
+248, pear
+249, honeysuckle
+250,mandarin orange
+251, honey
+252, lychee
+253, peach skin
+254, white flowers
+255,cherry
+256, rose
+257, leather
+258, anise
+259, clay pot
+260,black cherry
+261, black plum
+262, blackberry
+263, prune
+264, dried thyme
+265,dried cherry
+266, orange zest
+267, dried thyme
+268, allspice
+269, crushed gravel
+270,black currant
+271, black cherry
+272, dill
+273, black pepper
+274, chocolate
+275,lemon
+276, jackfruit
+277, almond
+278, saline
+279, mushroom
+280,black cherry
+281, plum
+282, violet
+283, lilac
+284, sage
+285,black cherry
+286, blackberry
+287, fig
+288, menthol
+289, roasted meat
+290,dried herbs
+291, dried cherry
+292, espresso
+293, anise
+294, smoke
+295,baked apple
+296, tangerine
+297, citrus
+298, beeswax
+299, thyme
+300,lime
+301, green apple
+302, beeswax
+303, jasmine
+304, petroleum
+305,cherry
+306, raspberry
+307, mushroom
+308, clove
+309, hibiscus
+310,pineapple
+311, lime
+312, resin
+313, tarragon
+314, fennel
+315,meyer lemon
+316, apricot
+317, beeswax
+318, chamomile
+319, brioche
+320,sugarplum
+321, blueberry
+322, dark chocolate
+323, black pepper
+324, black tea
+325,green apple
+326, citrus blossom
+327, lemon
+328, thyme
+329, saline
+330,pear
+331, peach
+332, raw almond
+333, lemon zest
+334, crushed gravel
+335,white peach
+336, lemon zest
+337, cantalope
+338, raw almond
+339, crushed gravel
+340,tart cherry
+341, pomegranate
+342, potting soil
+343, mushroom
+344, rose
+345,plum sauce
+346, licorice
+347, black tea
+348, black olive
+349, black pepper
+350,cherry
+351, roasted tomato
+352, sweet balsamic
+353, oregano
+354, espresso
+355,gooseberry
+356, honeydew
+357, grapefruit
+358, white peach
+359, passion fruit
+360,green apple
+361, honeydew
+362, lime zest
+363, lemon curd
+364, resin
+365,strawberry
+366, raspberry
+367, rose candy
+368, lemon
+369, smoke
+370,raspberry
+371, blackberry
+372, sweet tobacco
+373, baking spices
+374, chocolate
+375,blueberry
+376, black plum
+377, milk chocolate
+378, tobacco
+379, green peppercorn
+380,black currant
+381, plum
+382, licorice
+383, smoke
+384, cardamom
+385,cherry
+386, dried fig
+387, cedar
+388, tobacco
+389, dill
+390,blackberry sauce
+391, pomegranate
+392, graphite
+393, rose petal
+394, pink peppercorn
+395,blueberry
+396, violet
+397, plum
+398, mint
+399, wet slate
+400,white peach
+401, lemon
+402, green apple
+403, seashell
+404, basil
+405,lime
+406, honeydew
+407, grapefruit pith
+408, fennel
+409, white peach
+410,gooseberry
+411, pineapple
+412, ginger
+413, honeydew
+414, brazil nut
+415,peach
+416, lemon curd
+417, almond skin
+418, oily
+419, saline
+420,lime
+421, grapefruit
+422, green apple
+423, almond
+424, daffodil
+425,white currant
+426, pineapple
+427, honeydew
+428, lychee
+429, honeysuckle
+430,tangerine
+431, peach
+432, mango
+433, honeysuckle
+434, rose
+435,honeydew
+436, lime peel
+437, lemon verbana
+438, tarragon
+439, hazelnut
+440,raspberry
+441, plum sauce
+442, anise
+443, allspice
+444, tobacco
+445,red cherry
+446, raspberry
+447, black pepper
+448, licorice
+449, chocolate
+450,yellow apple
+451, underripe pear
+452, lemon
+453, almond
+454, saline
